@@ -3,7 +3,7 @@ The Consumer Behavior and Shopping Habits Dataset provides comprehensive insight
 
 **Data set:**
 
-https://www.kaggle.com/code/arvindkhoda/consumer-behavior-and-shopping-habits-dataset/notebook
+https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset
 
 **Collaborators:**
 
